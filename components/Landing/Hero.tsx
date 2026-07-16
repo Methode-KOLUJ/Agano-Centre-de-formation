@@ -6,9 +6,9 @@ import FadeIn from '@/components/ui/FadeIn';
 import { useState, useEffect } from 'react';
 
 const BACKGROUND_IMAGES = [
-  '/hero/Former_1.jpg',
-  '/hero/Former_2.jpg',
-  '/hero/Former_3.jpg',
+  '/hero/Former_1.webp',
+  '/hero/Former_2.webp',
+  '/hero/Former_3.webp',
 ];
 
 export default function Hero() {

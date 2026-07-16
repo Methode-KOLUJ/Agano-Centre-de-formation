@@ -27,7 +27,7 @@ export default function Valeur() {
     <section className="relative overflow-hidden px-4 py-16 md:px-2 md:py-24 lg:px-0 lg:py-32">
       {/* Arrière-plan */}
       <div className="absolute inset-0 z-0">
-        <div className="absolute inset-0 bg-[url('/Value.jpg')] bg-cover bg-center md:bg-fixed" />
+        <div className="absolute inset-0 bg-[url('/Value.webp')] bg-cover bg-center md:bg-fixed" />
         <div className="absolute inset-0 bg-white/60" />
       </div>
 
